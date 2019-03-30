@@ -1,0 +1,22 @@
+# Bundler related.
+.bundle
+vendor/bundle/
+
+# node
+node_modules
+
+
+# Other.
+*.orig
+*.core
+*.rej
+*~
+*.swp
+*.log
+*.tmp
+*.bak
+.*\#.*\#$
+
+# OS garbage.
+Thumbs.db
+.DS_Store

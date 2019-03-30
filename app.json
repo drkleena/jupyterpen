@@ -1,0 +1,20 @@
+{
+  "name": "Homemade Machine Learning",
+  "description": "homemademl",
+  "repository": "https://github.com/drkleena/jupyterpen",
+  "logo": "https://node-js-sample.herokuapp.com/node.svg",
+  "success_url": "/",
+  "keywords": [
+    "node",
+    "express"
+  ],
+  "scripts": {
+      "start": "node index.js"
+  },
+  "addons": [
+  ],
+  "env": {
+    "BUILDPACK_URL": "https://github.com/heroku/heroku-buildpack-nodejs"
+},
+"image": "heroku/nodejs"
+}

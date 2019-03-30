@@ -1,0 +1,17 @@
+{
+  "name": "notebook-to-html",
+  "version": "1.0.0",
+  "description": "Create interactive html sites from jupyter notebooks",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Jonas Olausson",
+  "license": "MIT",
+  "dependencies": {
+    "ansi_up": "^4.0.3",
+    "express": "^4.16.4",
+    "jsdom": "^13.2.0",
+    "marked": "^0.6.1"
+  }
+}
