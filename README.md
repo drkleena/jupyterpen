@@ -12,4 +12,4 @@ To run Jupyter Pen on your own computer, clone or [download](archive/master.zip)
 
 - [notebookjs](https://github.com/jsvine/notebookjs), for notebook-rendering
 - [nbpreview](https://github.com/jsvine/nbpreview), for styling and appearance
-- [thebelab] (https://github.com/minrk/thebelab), for iPython snippet functionality
+- [thebelab](https://github.com/minrk/thebelab), for iPython snippet functionality
