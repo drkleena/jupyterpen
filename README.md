@@ -2,7 +2,7 @@
 
 Jupyter Pen is a web tool to quickly preview and run jupyter notebooks.
 
-You can use [__this hosted version__](https://jsvine.github.io/nbpreview/) or `git clone` your own. Just drag-and-drop your `.ipynb` file onto the filepicker, and *voilà!*
+Check it out [__here__](https://jupyterpen.herokuapp.com/) 
 
 ## Running It On Your Local Machine
 
