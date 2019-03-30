@@ -68,10 +68,10 @@
 } */
 
 .custom-file-upload {
-    /*
+
     display: inline-block;
     padding: 0px 0px 0px 0px;
      cursor: pointer;
-    width: 100px; */
+    width: 100px;
     border: 1px solid #ccc;
 }
